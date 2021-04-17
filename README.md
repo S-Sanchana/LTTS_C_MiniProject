@@ -4,8 +4,12 @@ Unit conversions are bugbears to many..!! As conversions are a crucial aspect of
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-[![C/C++ CI](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml) | [![Static Cppcheck](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/cppcheck.yml) [![Dynamic Valgrind](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml)| [![Unity - Unit Testing](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml)
-
+[![C/C++ CI](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/sanchana-c-cpp.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/sanchana-c-cpp.yml) | 
+[![Static Cppcheck](https://github.com/S-Sanchana/LTTS_C_MiniProject/actions/workflows/sanchana_cppcheck.yml/badge.svg)](https://github.com/S-Sanchana/LTTS_C_MiniProject/actions/workflows/sanchana_cppcheck.yml) 
+[![Dynamic Valgrind](https://github.com/S-Sanchana/LTTS_C_MiniProject/actions/workflows/sanchana-dynamic-code-quality.yml/badge.svg)](https://github.com/S-Sanchana/LTTS_C_MiniProject/actions/workflows/sanchana-dynamic-code-quality.yml) 
+[![Code Coverage](https://github.com/S-Sanchana/LTTS_C_MiniProject/actions/workflows/coverage.yml/badge.svg)](https://github.com/S-Sanchana/LTTS_C_MiniProject/actions/workflows/coverage.yml) | 
+[![Unity - Unit Testing](https://github.com/S-Sanchana/LTTS_C_MiniProject/actions/workflows/sanchana-unity.yml/badge.svg)](https://github.com/S-Sanchana/LTTS_C_MiniProject/actions/workflows/sanchana-unity.yml) | 
+[![Git Inspector](https://github.com/S-Sanchana/LTTS_C_MiniProject/actions/workflows/sanchana-gitinspector.yml/badge.svg)](https://github.com/S-Sanchana/LTTS_C_MiniProject/actions/workflows/sanchana-gitinspector.yml) 
 
 
 ## Folder Structure
