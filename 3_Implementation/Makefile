@@ -67,7 +67,7 @@ coverage:${PROJECT_NAME}
 gcovr:${PROJECT_NAME} $(BUILD_DIR)
 	gcc -fprofile-arcs -ftest-coverage $(SRC) $(TEST_SRC) $(INC) -o $(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
 	$(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
-	gcovr -e unity/unity.c -r .
+	gcovr -e unity/unity\.c -r .
 
 doc:
 	make -C doc
